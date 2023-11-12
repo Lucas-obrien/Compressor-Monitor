@@ -4,3 +4,4 @@ This repository is dedicated to the development of an application that analyses 
 The objectives are:
 
 1. Git gud
+2. Be gud
